@@ -111,7 +111,7 @@ export default function RootLayout({
       <head>
         {/* Verification Tags */}
         <meta name="google-site-verification" content="your-google-verification-code" />
-        <meta name="yandex-verification" content="your-yandex-verification-code" />
+        <meta name="yandex-verification" content="7da82dca4bf86aa3" />
         <meta name="msvalidate.01" content="your-bing-verification-code" />
         
         {/* Canonical URL */}
