@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: 'SPINTO Casino - Казино Онлайн',
-  description: 'SPINTO Казино - официальный сайт. Спинто казино онлайн с лучшими слотами, live казино, регистрацией и входом. Играйте в спинто казино на официальном сайте.',
+  name: 'Спинто Казино (Spinto Casino) Официальный Сайт: Вход, Регистрация и Зеркало',
+  description: 'Официальный сайт Spinto Casino онлайн. Пройдите быструю регистрацию и выполните вход в Спинто Казино. Играйте в лицензионные слоты и получайте бонусы!',
   url: process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000',
   keywords: [
     'spinto casino',
