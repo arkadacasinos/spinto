@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+Disallow: /*.json$
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://spintocasino.com/sitemap.xml
+
+# Crawl Delay
+Crawl-delay: 1
+
+# Request Rate
+Request-rate: 30/60
