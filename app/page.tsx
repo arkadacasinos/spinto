@@ -37,7 +37,7 @@ export default function Home() {
             <div className="absolute inset-0 bg-gradient-to-r from-black/60 via-transparent to-black/60" />
             <div className="relative h-full flex flex-col items-center justify-center text-center px-4">
               <h1 className="text-3xl md:text-5xl font-bold text-foreground mb-4">
-                <span className="neon-cyan">Черный</span>
+                <span className="neon-cyan">Турнир</span>
                 <br />
                 <span className="neon-pink">эндорфины</span>
               </h1>
